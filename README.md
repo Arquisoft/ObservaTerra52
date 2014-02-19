@@ -1,7 +1,7 @@
-ObservaTerra5.2
+ObservaTerra52
 =============
 
-ObservaTerra5.2 <br>
+ObservaTerra52 <br>
 Pablo Romero Martin
 
 
