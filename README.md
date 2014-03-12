@@ -1,8 +1,13 @@
 ObservaTerra52
 =============
 
-ObservaTerra52 <br>
-Pablo Romero Martin<br>
-Adrián Iglesias García
+## Authors
+
+* Adrián Iglesias García  
+* Daniel Mera López
+* Pablo Romero Martin 
+* Marcos Ruiz Villamea 
+* David Sariego Fernández 
+* [Javier Camacho Suárez](https://github.com/jcasus) 
 
 
