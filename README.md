@@ -1,9 +1,13 @@
-ObservaTerra52
-=============
+Proyecto ObservaTerra
+=====================
 
-ObservaTerra52 <br>
-Pablo Romero Martin<br>
-Adrián Iglesias García<br>
-Marcos Ruiz Villamea
+## Autores
+
+* Pablo Romero Martin
+* Adrián Iglesias García
+* Marcos Ruiz Villamea
+* Javier Camacho Suárez
+* Daniel Mera López
+* David Sariego Fernández
 
 
